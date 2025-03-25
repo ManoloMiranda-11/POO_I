@@ -43,7 +43,6 @@ El código está organizado por paquetes según los temas trabajados:
 
 - [Documentación oficial de Java](https://docs.oracle.com/en/java/)
 - [Tutorial de POO en Java (YouTube)](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu5lq2d3xE6Cs4t73zvPp)
-- [W3Schools Java Tutorial](https://www.w3schools.com/java/)
 
 ---
 
