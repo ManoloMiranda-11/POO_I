@@ -12,10 +12,10 @@ El código está organizado por paquetes según los temas trabajados:
   (`Persona.java`, `Empleado.java`, `Cliente.java`, `Producto.java`, `Factura.java`)
 
 - **interfaces:** Define contratos para comportamientos  
-  (`ITrabajador.java`, `IVendedor.java`)
+  (`Trabajador.java`, `Vendedor.java`)
 
 - **herenciaPolimorfismo:** Ejemplos de herencia y polimorfismo  
-  (`Animal.java` - clase abstracta, `Perro.java`, `Gato.java`)
+  (`Animal.java`, `Perro.java`, `Gato.java`)
 
 ---
 
@@ -27,7 +27,7 @@ El código está organizado por paquetes según los temas trabajados:
    ```
 2. Abre el proyecto en Eclipse, IntelliJ u otro IDE que soporte Java.
 3. Explora las clases dentro de la carpeta `src/` para ver la estructura y ejemplos.
-4. (Opcional) Crea una clase `Main` para probar el funcionamiento de las clases.
+4. (Opcional) Crea una clase `Test` para probar el funcionamiento de las clases.
 
 ---
 
@@ -98,8 +98,8 @@ POO_I/
 │   │   ├── Producto.java
 │   │   └── Factura.java
 │   ├── interfaces/
-│   │   ├── ITrabajador.java
-│   │   └── IVendedor.java
+│   │   ├── Trabajador.java
+│   │   └── Vendedor.java
 │   └── herenciaPolimorfismo/
 │       ├── Animal.java
 │       ├── Perro.java
